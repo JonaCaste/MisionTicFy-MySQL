@@ -1,9 +1,9 @@
 # MisionTicFy MySQL
 
-MisionTicFy es un proyecto en el cual se crea una tienda de musica virtual, esta tienda cuenta con canciones y albunes; y es capaz de administar los datos de autores,
-clientes y las compras que se efectuan por medio de la página.
+MisionTicFy es un proyecto en el cual se crea una tienda de música virtual, esta tienda cuenta con canciones y álbumes; y es capaz de administrar los datos de autores,
+clientes y las compras que se efectúan por medio de la página.
 
-## Constucción 🚀
+## Construcción 🚀
 
 En este repositorio encontraras la base de datos de MisionTicFy, esta base de datos se encuentra conformada por 6 tablas, las cuales se encuentran descritas en:
 
@@ -16,8 +16,8 @@ Diagrama Entidad-Relacion
 Las siguientes tablas conforman toda la base de datos de MisionTicfy.
 
 *Producto
-*Cancion
-*Album
+*Canción
+*Álbum
 *Autor
 *Venta
 *Comprador
@@ -25,7 +25,7 @@ Las siguientes tablas conforman toda la base de datos de MisionTicfy.
 ## Construido con 🛠️
 
 * [MySQL](https://www.mysql.com/) - Sistema de gestión de bases de datos relacinal.
-* [Draw.io](https://app.diagrams.net/) - Sistema para crear de diagramas.
+* [Draw.io](https://app.diagrams.net/) - Sistema para crear diagramas.
 
 ## Autores ✒️
 
