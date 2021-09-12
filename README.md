@@ -15,12 +15,12 @@ Diagrama Entidad-Relacion
 
 Las siguientes tablas conforman toda la base de datos de MisionTicfy.
 
-*Producto
-*Canción
-*Álbum
-*Autor
-*Venta
-*Comprador
+* Producto
+* Canción
+* Álbum
+* Autor
+* Venta
+* Comprador
 
 ## Construido con 🛠️
 
