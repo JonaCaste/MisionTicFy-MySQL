@@ -7,7 +7,6 @@ clientes y las compras que se efectúan por medio de la página.
 
 En este repositorio encontraras la base de datos de MisionTicFy, esta base de datos se encuentra conformada por 6 tablas, las cuales se encuentran descritas en:
 
-Diagrama Entidad-Relacion
 [Diagrama Entidad-Relacion](Diagrama Entidad-Relacion)
 
 ### Tablas 📋
